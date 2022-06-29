@@ -1,0 +1,10 @@
+org\example\sumdistance\flightSumReducer.class
+org\example\countflight\flightCountReducer.class
+org\example\sumdistance\App.class
+org\example\countflight\flightCountMapper.class
+org\example\sumdistance\flightSumMapper.class
+org\example\countflight\App.class
+org\example\avgflight\App.class
+org\example\App.class
+org\example\avgflight\flightAvgMapper.class
+org\example\avgflight\flightAvgReducer.class
